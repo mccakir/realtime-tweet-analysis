@@ -25,7 +25,7 @@ public class TwitterProducer {
 
     String consumerKey = "";
     String consumerSecret = "";
-    String token = "567626234-";
+    String token = "";
     String secret = "";
 
     List<String> terms = Lists.newArrayList("türktelekom","turktelekom");
